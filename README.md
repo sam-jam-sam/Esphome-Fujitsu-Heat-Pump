@@ -1,11 +1,13 @@
 # Esphome-Fujitsu-Heat-Pump
 Collection of resources, Gerber files, and 3D models used to upgrade my Fujitsu AC
 
-Software
+### Software
+
 https://github.com/FujiHeatPump/esphome-fujitsu
+
 https://github.com/unreality/FujiHeatPump
 
-BOM
+### BOM
 
 1x ESP32 NodeMCU ESP-32S https://vi.aliexpress.com/item/1005004180281468.html?spm=a2g0o.order_list.order_list_main.35.21ef1802DIgSzL&gatewayAdapt=glo2vnm
 
