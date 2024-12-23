@@ -17,8 +17,8 @@ https://github.com/unreality/FujiHeatPump
 4x M2x6 bolts  
 4x M2 nuts  
 
-![20241223_115524](https://github.com/user-attachments/assets/41415628-f6a4-4d04-b76c-f25b3d4d0d0c)
+![20241223_115524](https://github.com/user-attachments/assets/86895811-2426-4e20-b1b6-47f5c20aecda)
 Completed board pluged in to confirm operation
 
-![20241223_215617](https://github.com/user-attachments/assets/2daa9247-6626-4816-b44b-07122d7ea2a8)
+![20241223_215617](https://github.com/user-attachments/assets/d7addd0a-066c-4308-a443-fb99e741530c)
 Final results
